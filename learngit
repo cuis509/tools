@@ -15,3 +15,8 @@ A: user "git diff" to see what is changed in file.
 
 How to known change log of a file?
 A: use "git log" to see change log of file.
+
+git init
+git add *
+git commit -m ""
+git push 
