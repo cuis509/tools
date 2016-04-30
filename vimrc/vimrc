@@ -130,6 +130,5 @@ nnoremap <F4> :TlistToggle<CR>
 " type ,s
 nmap ,s :ConqueTermVSplit python /home/hzx/github-huangzx/pytoys/stackoverflow_cli_search.py 
 
-" Searching github
 " type ,g
 nmap ,g :ConqueTermVSplit python /home/hzx/github-huangzx/pytoys/github_search.py
