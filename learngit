@@ -16,7 +16,7 @@ A: use "git log" to see change log of file.
 ------------------------------------------------------------
 Q: How to commit files which have been changed?
 A: Do as follows:
-1. git add *
+1. git add * or git add file_need_commit
 2. git commit -m "update message etc."
 3. git push 
 ------------------------------------------------------------
