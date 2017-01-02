@@ -20,5 +20,5 @@ A: Do as follows:
 2. git add *
 3. git commit -m "update message etc."
 4. git push 
-
+------------------------------------------------------------
 if print "error, failed to push some refs to ......", try "git pull origin master" first
