@@ -16,9 +16,8 @@ A: use "git log" to see change log of file.
 ------------------------------------------------------------
 Q: How to commit files which have been changed?
 A: Do as follows:
-1. git init
-2. git add *
-3. git commit -m "update message etc."
-4. git push 
+1. git add *
+2. git commit -m "update message etc."
+3. git push 
 ------------------------------------------------------------
 if print "error, failed to push some refs to ......", try "git pull origin master" first
