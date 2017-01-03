@@ -1,10 +1,5 @@
 Git is a free version control system.
 ------------------------------------------------------------
-Q: How to use git?
-1. cd the dir you want to add to version control, use "git init" to add dir to version control system;
-2. use "git add file" to add file to version control system;
-3. use "git commit -m "message" " to commit file.
-------------------------------------------------------------
 Q: Check whether file is changed?
 A: use "git status" to see whether file is changed.
 ------------------------------------------------------------
